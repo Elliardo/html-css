@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+body{
+    color: white;
+    background-color: rgb(31, 31, 31);
+}
